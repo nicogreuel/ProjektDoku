@@ -7,7 +7,7 @@
 
 ### Admin user hinzufügen
 
-    aduser admin
+    adduser admin
 
 change sudo rights in /etc/sudoers
 
